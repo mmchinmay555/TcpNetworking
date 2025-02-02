@@ -53,7 +53,7 @@ Email: mmchinmay555@gmail.com
 LinkedIn: https://www.linkedin.com/in/chinmay-rao-mm/
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues.
 
 
