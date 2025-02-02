@@ -33,7 +33,7 @@ TcpNetworking/
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/TcpNetworking.git
+git clone https://github.com/mmchinmay555/TcpNetworking.git
 cd TcpNetworking
 ```
 ### **2. Build the Project using CMake**
