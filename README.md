@@ -10,6 +10,7 @@ A lightweight and reusable C++ TCP networking library that provides a **TCP Serv
 - Example programs included for quick testing.
 
 ## 📁 Project Structure
+```sh
 TcpNetworking/
 │── include/
 │   ├── Socket.h
@@ -26,7 +27,7 @@ TcpNetworking/
 │── examples/CMakeLists.txt  # Examples CMake file
 │── LICENSE
 │── README.md
-
+```
 
 ## 🛠️ Installation & Usage
 
