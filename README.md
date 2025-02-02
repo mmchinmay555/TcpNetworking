@@ -23,7 +23,7 @@ TcpNetworking/
 │── examples/
 │   ├── server_example.cpp
 │   ├── client_example.cpp
-|   ├── CMakeLists.txt  # examples CMake file
+│   ├── CMakeLists.txt  # examples CMake file
 │── CMakeLists.txt      # Root CMake file
 │── LICENSE
 │── README.md
