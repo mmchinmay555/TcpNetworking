@@ -52,8 +52,10 @@ make
 Email: mmchinmay555@gmail.com
 LinkedIn: https://www.linkedin.com/in/chinmay-rao-mm/
 
+
 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues.
+
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
