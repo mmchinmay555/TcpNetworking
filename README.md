@@ -5,7 +5,7 @@ A lightweight and reusable C++ TCP networking library that provides a **TCP Serv
 ## 🚀 Features
 - Simple and reusable **TCP Server** and **TCP Client** implementation.
 - **Common `Socket` class** for easy extensibility.
-- Supports **cross-platform development** (Linux & Windows).
+- Supports Linux as of now
 - Uses **CMake** for easy building and integration.
 - Example programs included for quick testing.
 
